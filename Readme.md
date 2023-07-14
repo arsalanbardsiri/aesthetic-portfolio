@@ -20,8 +20,8 @@ The portfolio includes sections about me, my work, and how to contact me. It als
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/arsalanbardsiri/arsalan-portfolio.git`
-2. Navigate to the project directory: `cd arsalan-portfolio`
+1. Clone the repository: `git clone https://github.com/arsalanbardsiri/aesthetic-portfolio.git`
+2. Navigate to the project directory: `cd aesthetic-portfolio`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -55,9 +55,7 @@ The deployed version of the portfolio website can be accessed [here](https://www
 
 Here are some screenshots of the portfolio website:
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot3.png)
+![Screenshot 1](./assets/images/demo.gif)
 
 ## Resources
 
