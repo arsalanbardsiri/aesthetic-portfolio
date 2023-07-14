@@ -49,7 +49,7 @@ The CSS is organized using the BEM (Block Element Modifier) methodology for main
 
 ## Deployed Application
 
-The deployed version of the portfolio website can be accessed [here](https://arsalanbardsiri.github.io/aesthetic-portfolio/).
+The deployed version of the portfolio website can be accessed [URL](https://arsalanbardsiri.github.io/aesthetic-portfolio/).
 
 ## Screenshots
 
